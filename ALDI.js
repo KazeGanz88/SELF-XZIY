@@ -52,13 +52,13 @@ fakereply = fs.readFileSync('./image/fake.jpeg')
 fakeimage = fs.readFileSync('./image/thumb.jpeg')
 cewe = fs.readFileSync('./image/cewe.jpeg')
 ownerNumber = ["0@s.whatsapp.net","6285697725326@s.whatsapp.net","62856977253261@s.whatsapp.net"] // yang kosong 0 itu isi pake no kalian guys
-fake = 'ALDI FAUZI' // ini fake
-namaown = 'ZuxyGanz' //nama owner
-noown = '6285697725326' //nomor owner
-namabot = 'SAINS BOT' // nama bot
-namabot2 = 'GANTI'// nama bot ⟨ nama bot ⟩
+fake = 'Kaze' // ini fake
+namaown = 'KazeGanz' //nama owner
+noown = '6289648099251' //nomor owner
+namabot = 'KazeBot' // nama bot
+namabot2 = 'Kaze'// nama bot ⟨ nama bot ⟩
 ytown = 'https yt'
-githubown = 'https://github.com/'
+githubown = 'https://github.com/KazeGanz88'
 const
 	{
 		WAConnection,
